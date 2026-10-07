@@ -1,53 +1,62 @@
 # Lame Brain Ideas
 
-Working repository for the Lame Brain Ideas prospectus, feasibility study, market research, financial model, and operating model.
+Lame Brain Ideas is a pilot-stage, human-guided idea studio. It helps people and organizations turn rough possibilities into evidence, decisions, and launch-ready work.
 
-## Investment-committee conclusion
+## Current company decision
 
-**Conditional go:** validate a lean, paid, secure idea-development studio before accepting flagship-store, funding-platform, investor-marketplace, or franchise risk.
+**Launch a capped 90-day paid pilot. Do not launch a permanent flagship, owned crowdfunding marketplace, investor network, securities activity, or franchise program.**
 
-The base flagship case reaches approximately $2.01 million of Year 5 revenue and $75,000 of Year 5 EBITDA after requiring approximately $2.65 million of external funding. The modeled downside requires about $5.13 million and does not break even within five years. The recommended first commitment is therefore a capped $150,000–$250,000 validation program, not a flagship build.
+The company begins as a portable, partner-hosted and digital studio with four bounded offers:
 
-## Deliverables
+| Offer | Pilot price | Primary outcome |
+|---|---:|---|
+| Quick Diagnostic | $125 | Framed problem, risk map, and next step |
+| Idea Sprint | $750 | Customer, offer, evidence plan, and first-pass economics |
+| Venture Build | $4,200 | Research, operating plan, model, and launch brief |
+| Partner Workshop | $2,500 | Facilitated cohort and outcomes report |
 
-- [Prospectus and feasibility study — PDF](outputs/019f710c-82b5-7712-9ab5-3e33a1e32524/Lame_Brain_Ideas_Prospectus.pdf)
-- [Prospectus and feasibility study — editable Word](outputs/019f710c-82b5-7712-9ab5-3e33a1e32524/Lame_Brain_Ideas_Prospectus.docx)
-- [Five-year financial feasibility model — Excel](outputs/019f710c-82b5-7712-9ab5-3e33a1e32524/Lame_Brain_Ideas_Financial_Model.xlsx)
-- [Source-link analysis](research/SOURCE_ANALYSIS.md)
-- [Market research and evidence register](research/MARKET_RESEARCH.md)
-- [Agentic roles and project operating model](PROJECT_OPERATING_MODEL.md)
+These prices and scopes are management hypotheses until replaced by paid-pilot evidence.
 
-## Source boundary
+## Launch package
 
-The public ChatGPT share contained one user concept prompt and one assistant response. It did not expose Canvas documents, attachments, prior financials, operating manuals, or brand assets. The user prompt is treated as source intent; assistant-generated packages, prices, locations, platform features, and expansion concepts are treated as hypotheses.
+- Public site: `docs/`
+- Public launch brief: `docs/downloads/Lame_Brain_Ideas_Prospectus.pdf`
+- 24-month financial model: `docs/downloads/Lame_Brain_Ideas_Financial_Model.xlsx`
+- Company launch plan: `COMPANY_LAUNCH_PLAN.md`
+- Human action list: `LAUNCH_CHECKLIST.md`
+- Pilot delivery system: `operations/PILOT_PLAYBOOK.md`
+- Media and outreach plan: `operations/MEDIA_AND_OUTREACH.md`
+- Trust and data controls: `governance/TRUST_AND_DATA_POLICY.md`
+- Research and claim register: `research/`
 
-## Model structure
+## Financial management case
 
-The workbook includes:
+The 24-month model starts in November 2026 and currently calculates:
 
-1. Cover and decision summary
-2. Editable assumptions
-3. Capacity-led unit economics
-4. Five-year store P&L
-5. Cash flow and funding need
-6. Downside, base, and upside scenarios
-7. An illustrative ten-store expansion stress test
-8. Formula and logic checks
-9. Sources and assumption register
+- $125,000 90-day authorization ceiling
+- approximately $226,014 external funding need, including a $25,000 minimum cash buffer
+- approximately $556,598 cumulative 24-month revenue
+- first positive monthly EBITDA in Month 19
+- approximately $49,317 revenue and $9,021 EBITDA in Month 24
+- maximum modeled delivery utilization of 83.5%
 
-The workbook's checks pass and no formula-error tokens were found. That confirms model integrity, not commercial validity; working prices, utilization, rent, capex, staffing, and conversion assumptions must be replaced with pilot evidence and local quotes.
+These are model outputs, not audited results, valuations, or promises. The model excludes regulated and speculative revenue.
 
-## Assigned roles
+## Launch gates
 
-The project operating model assigns Managing Partner / IC Lead, Venture Architect, Market Research Lead, Retail Experience & Operations Lead, Financial Modeling & Feasibility Lead, Product & AI Systems Architect, Risk/IP/Regulatory Workstream Lead, Brand & CX Strategist, and Evidence & Deliverable Steward responsibilities. Required licensed specialists remain external and gated.
+1. **Trust and setup:** legal entity, contracts, insurance, privacy/AI-use controls, payment path, evidence register, and accessibility review.
+2. **Paid demand:** three credible host partners and 12 paid cases by Month 3, with channel attribution.
+3. **Outcomes and contribution:** customer outcomes, delivery time, rework, refunds, and contribution are recorded by offer.
+4. **Next capital decision:** repeat, narrow, redesign, pause, or stop before adding material fixed cost.
 
-## Owner decisions before public launch
+## Reproducible financial build
 
-- Approve or revise the customer promise, beachhead segment, four working offers, and no-guarantee funding boundary.
-- Select a pilot geography and authorize the validation budget ceiling.
-- Commission jurisdiction-specific startup/securities, IP, privacy, customer-terms, insurance, tax, and lease advice.
-- Recruit the first 12 paid concierge customers and partner hosts; reconvene at Day 90 with actuals.
+The workbook is generated by `scripts/build_launch_model.mjs` with the bundled Codex artifact runtime. The build exports identical management and public copies, recalculates formulas, scans for formula errors, and renders every sheet for visual review.
 
-## Status
+## Operating rule
 
-Version 1.0, 17 July 2026. Planning documents only; not audited financial statements, a valuation, legal or tax advice, or an offer to sell securities.
+Market statistics are context. They never substitute for observed customer behavior. Facts, estimates, assumptions, targets, and policy boundaries must stay visibly distinct in every public or internal artifact.
+
+## Current human dependencies
+
+The repository cannot form the entity, clear the trademark, bind insurance, open banking and payment accounts, accept contracts, create the public email inbox, or obtain real partner and customer commitments. Those actions are called out in `LAUNCH_CHECKLIST.md` with owners and acceptance evidence.

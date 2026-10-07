@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Lame Brain Ideas question mark">
+  <rect width="64" height="64" rx="12" fill="#f4ee45"/>
+  <circle cx="32" cy="32" r="22" fill="#13212b"/>
+  <text x="32" y="45" text-anchor="middle" font-family="Georgia,serif" font-size="42" font-style="italic" fill="#f4ee45">?</text>
+</svg>

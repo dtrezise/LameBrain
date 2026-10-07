@@ -1,4 +1,9 @@
 .DS_Store
 .work/
+node_modules/
+node_modules
+output/
+tmp/
 outputs/**/*.inspect.ndjson
+docs/downloads/*.inspect.ndjson
 ~$*.docx

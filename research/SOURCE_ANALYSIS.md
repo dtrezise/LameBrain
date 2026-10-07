@@ -1,66 +1,56 @@
-# Lame Brain Ideas - Source Analysis
+# Lame Brain Ideas — Source and provenance analysis
 
-- **Source:** https://chatgpt.com/share/6a5a6150-5000-83ea-bc47-11e9bae4948c
-- **Share title:** `Lame Brain Ideas Plan`
-- **Accessed:** 2026-07-17
-- **Status:** Source brief, not validated business evidence
+**Original public share:** https://chatgpt.com/share/6a5a6150-5000-83ea-bc47-11e9bae4948c
+**Original share title observed:** `Lame Brain Ideas Plan`
+**First analyzed:** 2026-07-17
+**Availability rechecked:** 2026-10-07
+**Status:** July snapshot retained in project history; the public share was not reliably recoverable at the October review
 
-## What the source actually contains
+## Provenance finding
 
-The public share contains one user concept prompt and one assistant response. No live Canvas documents, attachments, financial model, market study, floor plan, images, or other hidden project artifacts were available in the share.
+The July review found one user concept prompt and one assistant response. It did not expose live Canvas documents, attachments, a financial model, market study, floor plan, images, or hidden project artifacts. The October review could not treat the shared page as a durable source of record. This project therefore preserves a dated description of the source and treats subsequent repository artifacts as independently authored work requiring their own evidence.
 
-The user's concept is a welcoming physical storefront that combines elements of a guided innovation studio, Kickstarter-style crowdfunding, and a Shark Tank-style investor community. Customers work with employees called **Brain Stormers**, supported by proprietary AI tools and workflows, to articulate, explore, validate, prototype, plan, and pitch an idea. The source proposes three customer outcomes:
+The shared conversation is concept provenance—not validation evidence. It should not be cited as proof of demand, legal feasibility, unit economics, customer outcomes, or market size.
 
-1. Leave with a completed idea/pitch package.
-2. Advance into a crowdfunding process to seek money, resources, and talent.
-3. If selected, prepare for a direct pitch to an angel-investor community.
+## User-originated concept elements
 
-The source also establishes working brand elements:
+The source proposed a welcoming physical storefront combining guided innovation work, crowdfunding concepts, and investor-community concepts. Customers would work with employees called Brain Stormers, supported by AI tools, to articulate, explore, validate, prototype, plan, and pitch an idea.
+
+Working brand elements included:
 
 - **Name:** Lame Brain Ideas
-- **Storefront hierarchy:** `LAME BRAIN` with `ideas` as a playful subtitle
 - **Tagline:** `Ever have one? Come on in.`
-- **Experience references:** T-Mobile, Apple, and Brookstone-style retail simplicity and approachability
-- **Trust premise:** confidentiality/NDA protections before substantive idea work
+- **Hierarchy:** `LAME BRAIN` with `ideas` as a playful subtitle
+- **Experience references:** approachable consumer retail
+- **Trust premise:** confidentiality/NDA protections before substantive work
 
-## What the prior assistant added
+## Assistant-originated hypotheses in the source
 
-The assistant reframed the concept as **"the world's first Idea Development Store"** and identified **Idea Retail** as the potential category. It proposed:
+The prior assistant added “Idea Development Store” / “Idea Retail” framing, service tiers, physical zones, expanded job titles, AI engines, services/subscriptions/platform/investor/equity revenue, and a store-to-franchise/global-platform growth path.
 
-- Four service tiers priced at $49, $199, $999, and $5,000+
-- A three-stage business model: development studio, crowdfunding platform, investor network
-- Physical zones: Idea Bar, Dream Booths, Prototype Lab, Launch Theater
-- Roles: Brain Stormers, Senior Brain Surgeons, Venture Scouts
-- AI engines for intake, validation, product development, branding, pitching, and funding readiness
-- Revenue from services, subscriptions, crowdfunding fees, investor memberships, and equity interests
-- Expansion from one store to regional hubs, franchising, and a global digital platform
+Those elements were creative strategy suggestions, not user-validated requirements or external facts. In particular, crowdfunding, investor networks, equity interests, and franchising introduce material legal, operational, and capital burdens.
 
-These additions are useful hypotheses, not source-validated facts. The source includes no customer interviews, willingness-to-pay evidence, competitive analysis, store economics, legal analysis, or proof that an owned crowdfunding platform is necessary.
+## Preserved strategic insight
 
-## Strongest strategic insight
+The durable insight is a visible, confidence-building, human-guided place where people can turn an unstructured idea into a decision-ready artifact. That remains differentiated from generic AI drafting and fragmented consulting when the company provides:
 
-The differentiated idea is not "AI consulting" and not another crowdfunding site. It is a **visible, human-guided, confidence-building place where ordinary people can turn an unstructured idea into a decision-ready artifact**. The physical experience can make a complex service legible, trusted, and culturally approachable.
+- clear outcomes and bounded scope
+- evidence standards and candid uncertainty
+- human facilitation and accountability
+- usable artifacts and follow-through
+- responsible referral to specialists
 
-## Critical feasibility gaps
+## What changed in the launch update
 
-1. **Demand:** No evidence yet shows that enough customers will pay outcome-based prices for idea development.
-2. **Positioning:** Free mentoring, inexpensive AI tools, consultants, agencies, maker spaces, and accelerators already solve pieces of the problem.
-3. **Unit economics:** A service-heavy retail location carries professional payroll and occupancy costs that low-price entry packages cannot cover by themselves.
-4. **Scope control:** "Any idea" creates quality, expertise, safety, regulatory, and fulfillment complexity.
-5. **Confidentiality:** An NDA alone does not solve model-provider terms, retention, employee access, data segregation, or deletion obligations.
-6. **IP:** AI-assisted work requires clear human contribution records, assignment terms, third-party license checks, and referral boundaries for patent/trademark advice.
-7. **Crowdfunding:** Rewards crowdfunding is operationally demanding; securities crowdfunding must use a registered broker-dealer or SEC/FINRA funding portal.
-8. **Investor access:** Screening, promotion, transaction-based compensation, and recommendations can trigger securities-law issues.
-9. **Brand:** `Lame Brain` is memorable and disarming but may also be interpreted as insulting or ableist. Trademark clearance and customer testing are still required.
-10. **Expansion:** Franchising before one or more stores have repeatable economics would multiply an unproven operating model.
+- **Physical flagship → portable and partner-hosted pilot.** The company earns the right to add real estate.
+- **Broad ladder → four bounded founding offers.** Prices and hours are consistent across the model, site, and brief.
+- **Speculative revenue → excluded.** No crowdfunding fees, investor memberships, transaction compensation, or equity interests in the launch case.
+- **Agentic governance → named human accountability.** AI and automated agents may assist but cannot own decisions.
+- **Brochure site → launch funnel and trust center.** Visitors can test an idea, host a program, follow the learning, inspect evidence, and understand data boundaries.
+- **Five-year annual model → 24-month monthly management case.** Funnel, delivery capacity, cash, launch budget, gates, checks, and sources are explicit.
+- **Loose research → claim register.** Facts, calculations, assumptions, targets, policies, and unknowns are distinct.
+- **Media as vague expansion → controlled learning channel.** Service consent and media consent are separate.
 
-## Prospectus interpretation
+## Remaining unknowns
 
-The prospectus preserves the category idea, Brain Stormer role, working name/tagline, and three customer paths. It deliberately changes the sequencing:
-
-- **Launch:** paid concierge idea-development studio
-- **Then:** memberships, events, prototyping, and campaign-readiness services
-- **Later:** rewards-crowdfunding partnerships or marketplace
-- **Only after specialist legal design:** securities crowdfunding and investor network
-
-The financial plan therefore excludes crowdfunding and investor-network revenue from the launch case and treats later-phase revenue as gated upside.
+The source and repository still contain no completed primary interviews, signed host agreements, paid customer cases, realized acquisition cost, actual delivery time, customer outcome data, or trademark opinion. These are not documentation gaps that another model can safely fill; they are the purpose of the 90-day pilot.
